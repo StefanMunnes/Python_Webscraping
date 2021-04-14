@@ -1,3 +1,7 @@
 login_*.py
 
 .ipynb_checkpoints/
+
+befehle_anaconda.txt
+
+*.json
